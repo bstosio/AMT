@@ -1,0 +1,6 @@
+faster-whisper>=1.1
+sentencepiece
+imageio-ffmpeg
+customtkinter>=5.2
+tkinterdnd2
+Pillow
