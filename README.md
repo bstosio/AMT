@@ -1,5 +1,7 @@
 # AMT – Automatic Movie Translator
 
+[English](README.en.md) · **Polski**
+
 Tłumacz filmów, który działa **w całości na Twoim komputerze** (Windows, macOS, Linux).
 Wrzucasz film, a AMT wykrywa język i napisy, tłumaczy je i zapisuje napisy `.srt`
 albo od razu gotowy film z napisami (`.mkv` lub `.mp4`).
